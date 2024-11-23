@@ -3,9 +3,9 @@ A simple OSINT tool
 
 # Features
 **Instagram Ip Query**  
-**Whois Query**
-**Username Search**
-**Instagram OSINT**
+**Whois Query**  
+**Username Search**  
+**Instagram OSINT**  
 
 # INSTALLATION
 1. **Clone the Repository**:
@@ -19,3 +19,5 @@ A simple OSINT tool
    ```bash
    sudo python sancakkit.py
    ```
+# CONTACT
+**Telegram** *@charliecpln*  
